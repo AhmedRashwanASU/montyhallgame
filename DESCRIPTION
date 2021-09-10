@@ -1,0 +1,17 @@
+Package: montyhall
+Title: Package creates a new Monty Hall Problem game.
+Version: 0.0.0.9000
+Author: Ahmed Rashwan
+Maintainer: Ahmed Rashwan <aarashwa@asu.edu>
+Description:When the mathematical solution is beyond your reach, 
+            a good tractable way to approach these types of analytical problems is to write a program to solve it for you.
+            In this case, we can create a simulation that allows us to play the game thousands of times, 
+            and record the results for the two strategies – staying with the initial door or switching 
+            we already know that switching is superior
+Depends: 
+    dplyr
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+
